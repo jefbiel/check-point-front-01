@@ -10,8 +10,6 @@ console.log("O status será" + status);
 console.log("O produto sera equivalente a" + valorProduto);
 console.log("A lista de cores é" + listaCores );
 
-
-
 let num1 = 2;
 let num2 = 10;
 
